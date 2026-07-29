@@ -1,4 +1,4 @@
-## Hi There! I'm Osazele
+# Hi There!
 I'm an aspiring Data Analyst who loves finding patterns and stories hidden in data.
 
 - Skills: Excel, SQL, Tableau/Power BI, Python (Pandas, NumPy, MatPlotLib)
