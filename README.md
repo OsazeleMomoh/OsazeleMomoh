@@ -2,7 +2,7 @@
 
 
 ## Stack
-<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/excel.png" width="10%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/sql.png" width="10%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/tableau.png" width="10%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/powerbi.png" width="10%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/python.png" width="10%"/> 
+<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/excel.png" width="9%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/sql.png" width="8%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/tableau.png" width="7%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/powerbi.png" width="7%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/python.png" width="7%"/> 
 
 ## Connect With Me
 [<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/linkedin.png" width="10%"/>](https://www.linkedin.com/osazele.momoh)
