@@ -1,4 +1,11 @@
-## About Me
+## Hi There! I'm Osazele
+I'm an aspiring Data Analyst who loves finding patterns and stories hidden in data.
+
+🔍 Skills: Excel, SQL, Tableau/Power BI, Python (Pandas, NumPy, MatPlotLib)
+📈 Interested in: data cleaning, visualization, and exploratory analysis
+🌱 Currently: building my portfolio and sharpening my analytics skills
+💼 Looking for: Data Analyst opportunities
+⚡ Fun Fact: I'm a Soccer fan (Arsenal FC Supporter since '03)
 
 
 ## Stack
