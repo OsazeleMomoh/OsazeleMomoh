@@ -9,7 +9,7 @@ I'm an aspiring Data Analyst who loves finding patterns and stories hidden in da
 
 
 ## Stack
-<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/excel.png" width="9%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/sql.png" width="6%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/tableau.png" width="9%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/powerbi.png" width="9%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/python.png" width="6%"/> 
+<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/excel.png" width="9%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/sql.png" width="6%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/tableau.png" width="9%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/powerbi.png" width="9%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/python.png" width="5%"/> 
 
 ## Connect With Me
 [<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/linkedin.png" width="7%"/>](https://www.linkedin.com/osazele.momoh)
