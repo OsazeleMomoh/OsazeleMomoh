@@ -13,7 +13,7 @@ I'm an aspiring Data Analyst who loves finding patterns and stories hidden in da
 
 ## Connect With Me
 [<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/linkedin.png" width="7%"/>](https://www.linkedin.com/osazele.momoh)
-[<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/website.png" width="7%"/>](https://momohosazele.wixsite.com/portfolio) [<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/kaggle.png" width="7%"/>](https://www.kaggle.com/osazelemomoh/code)
+[<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/website_blue.png" width="7%"/>](https://momohosazele.wixsite.com/portfolio) [<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/kaggle.png" width="7%"/>](https://www.kaggle.com/osazelemomoh/code)
 
 ## Random Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=socrates&font=Architect&quoteType=random)
