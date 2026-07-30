@@ -1,5 +1,5 @@
 # Hi there!
-I'm an aspiring Data Analyst who loves finding patterns and stories hidden in data.
+I'm a Data Analyst who loves finding patterns and stories hidden in data.
 
 - Skills: Excel, SQL, Tableau/Power BI, Python (Pandas, NumPy, MatPlotLib)
 - Interested in: data cleaning, visualization, and exploratory analysis
