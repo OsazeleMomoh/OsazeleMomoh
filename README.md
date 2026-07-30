@@ -5,7 +5,7 @@ I'm a Data Analyst who loves finding patterns and stories hidden in data.
 - Interested in: data cleaning, visualization, and exploratory analysis
 - Currently: building my portfolio and sharpening my analytics skills
 - Looking for: Data Analyst opportunities
-- Fun Fact: I'm a Soccer fan (Arsenal FC Supporter since '03)
+- Fun Fact: I'm a Soccer fan (Arsenal FC supporter since '03)
 
 
 ## Stack
