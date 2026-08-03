@@ -12,7 +12,7 @@ I'm a Data Analyst who loves finding patterns and stories hidden in data.
 <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/excel.png" width="9%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/sql.png" width="6%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/tableau.png" width="9%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/powerbi.png" width="9%"/> <img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/python.png" width="5%"/> 
 
 ## Connect With Me
-[<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/linkedin.png" width="7%"/>](https://www.linkedin.com/osazele.momoh)
+[<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/linkedin.png" width="7%"/>](https://www.linkedin.com/in/osazele-momoh)
 [<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/website_blue.png" width="7%"/>](https://momohosazele.wixsite.com/portfolio) [<img src="https://github.com/OsazeleMomoh/OsazeleMomoh/blob/main/kaggle.png" width="7%"/>](https://www.kaggle.com/osazelemomoh/code)
 
 ## Random Quote
